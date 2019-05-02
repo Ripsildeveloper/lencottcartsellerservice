@@ -5,6 +5,7 @@ var buyerRoutes = require('./buyer/buyerRoute');
 var settingRoutes = require('./settings/settingsRoute');
 var moqRoutes = require('./moq/moqRoute');
 var customerRoutes = require('./customer-management/customerManagementRoute');
+var orderManagementRoutes = require('./order-management/order-managementRoute');
 
 exports.loadRoutes = function (app) {
     moqRoutes(app);
@@ -13,6 +14,7 @@ exports.loadRoutes = function (app) {
     productRoutes(app);
     buyerRoutes(app);
     settingRoutes(app);
-    customerRoutes(app)
+    customerRoutes(app);
+    orderManagementRoutes(app);
 };
 
