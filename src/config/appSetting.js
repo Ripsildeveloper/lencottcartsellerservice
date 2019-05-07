@@ -1,14 +1,14 @@
 module.exports = {
   /* productUploadPath: './images/products',
-  productServerPath: 'http://localhost/Lencott/products/',
+  productServerPath: 'http://localhost/Benjolb2b/products/',
   bannerUploadPath: './images/banners',
-  bannerServerPath: 'http://localhost/Lencott/banners/',
+  bannerServerPath: 'http://localhost/Benjolb2b/banners/',
   adsUploadPath: './images/ads',
-  adsServerPath: 'http://localhost/Lencott/ads/',
+  adsServerPath: 'http://localhost/Benjolb2b/ads/',
   logoUploadPath: 'images/logo',
-  logoServerPath: 'http://localhost/Lencott/logo/',
+  logoServerPath: 'http://localhost/Benjolb2b/logo/',
   headerUploadPath: 'images/header',
-  headerServerPath: 'http://localhost/Lencott/header/' */
+  headerServerPath: 'http://localhost/Benjolb2b/header/' */
   imageServerPath: 'https://benjolb2b.com/admin/images/',
   imageUploadPath: '/home/ubuntu/my-folder/app/seller-app/images/',
   productServerPath: 'https://benjolb2b.com/admin/images/product/',

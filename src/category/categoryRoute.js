@@ -11,15 +11,15 @@ module.exports = function (app) {
     app.route('/categoryDetails')
         .get(superCategoryMgr.superCategoryShow);
 
-    app.route('/category/:id')
-        .put(superCategoryMgr.superCategoryEdit);
+   /*  app.route('/category/:id')
+        .put(superCategoryMgr.superCategoryEdit); */
 
     app.route('/categoryDelete/:categoryId/name/:name')
         .delete(superCategoryMgr.superCategoryDelete);
 
-    app.route('/supercategoryimage/:id')
+   /*  app.route('/supercategoryimage/:id')
         .put(superCategoryMgr.createSuperCategoryImage);
-
+ */
     // main category
     app.route('/superCategory')
         .get(mainCategoryMgr.showSuperCategory);

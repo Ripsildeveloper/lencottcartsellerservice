@@ -13,7 +13,7 @@ const ProductSchema = new mongoose.Schema({
     productImageName: [String],
     subCategory: String,
     bulletPoints: String,
-    mfdQty: Number,
+    /* mfdQty: Number, */
     moq: Number,
     spPrice: Number,
     mrpPrice: Number,

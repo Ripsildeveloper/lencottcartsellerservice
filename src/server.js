@@ -42,7 +42,7 @@ mongoose.connection.once('open', function () {
     console.log("Successfully connected to the database");
 })
 
-app.get('/test', function (req, res) {
+app.get('/testcheck', function (req, res) {
     res.send("Success!");
 })
 
