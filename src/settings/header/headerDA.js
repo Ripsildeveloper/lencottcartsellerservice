@@ -33,7 +33,6 @@ exports.createLogoImage = function (req,file, res) {
                         }
                     })
                 
-
             } else {
                 headerData[0].logoImageName = file.originalname;
                 headerData[0].save(function (err, data) {

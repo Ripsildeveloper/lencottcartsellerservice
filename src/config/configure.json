@@ -11,7 +11,7 @@
     "bannerServerPath": "http://benjolb2b.com/admin/images/banner/",
     "bannerUploadPath": "/home/ubuntu/my-folder/app/seller-app/seller-app/images/banner",
     "adsServerPath": "http://benjolb2b.com/admin/images/ads/",
-    "adsUploadPath": "/home/ubuntu/my-folder/app/seller-app/seller-app/seller-app/images/ads",
+    "adsUploadPath": "/home/ubuntu/my-folder/app/seller-app/seller-app/images/images/ads",
     "logoServerPath": "http://benjolb2b.com/admin/images/logo/",
     "logoUploadPath": "/home/ubuntu/my-folder/app/seller-app/seller-app/images/logo",
     "headerUploadPath": "http://benjolb2b.com/admin/images/header/",

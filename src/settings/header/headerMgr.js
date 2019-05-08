@@ -20,7 +20,7 @@ exports.createLogoImage = function (req, res) {
 
         let upload = multer({
             storage: storage
-        }).array('uploads[]', 20); //only 20 images can be uploaded
+        }).single('file'); //only 20 images can be uploaded
         upload(req, res, function (err) {
             if (err) {
                 console.log(err);
