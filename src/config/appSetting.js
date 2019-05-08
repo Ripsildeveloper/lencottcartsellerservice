@@ -9,16 +9,16 @@ module.exports = {
   logoServerPath: 'http://localhost/Benjolb2b/logo/',
   headerUploadPath: 'images/header',
   headerServerPath: 'http://localhost/Benjolb2b/header/' */
-  imageServerPath: 'https://benjolb2b.com/admin/images/',
+  imageServerPath: 'http://benjolb2b.com/admin/images/',
   imageUploadPath: '/home/ubuntu/my-folder/app/seller-app/seller-app/images/',
-  productServerPath: 'https://benjolb2b.com/admin/images/product/',
+  productServerPath: 'http://benjolb2b.com/admin/images/product/',
   productUploadPath: '/home/ubuntu/my-folder/app/seller-app/seller-app/images/product',
-  bannerServerPath: 'https://benjolb2b.com/admin/images/banner/',
+  bannerServerPath: 'http://benjolb2b.com/admin/images/banner/',
   bannerUploadPath: '/home/ubuntu/my-folder/app/seller-app/seller-app/images/banner',
-  adsServerPath: 'https://benjolb2b.com/admin/images/ads/',
+  adsServerPath: 'http://benjolb2b.com/admin/images/ads/',
   adsUploadPath: '/home/ubuntu/my-folder/app/seller-app/seller-app/seller-app/images/ads',
-  logoServerPath: 'https://benjolb2b.com/admin/images/logo/',
+  logoServerPath: 'http://benjolb2b.com/admin/images/logo/',
   logoUploadPath: '/home/ubuntu/my-folder/app/seller-app/seller-app/images/logo',
-  headerUploadPath: 'https://benjolb2b.com/admin/images/header/',
+  headerUploadPath: 'http://benjolb2b.com/admin/images/header/',
   headerServerPath: '/home/ubuntu/my-folder/app/seller-app/seller-app/images/header'
 };
